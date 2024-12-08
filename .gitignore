@@ -1,0 +1,9 @@
+# Ignorar ejecutables y archivos de compilación
+*.exe
+
+# Ignorar configuraciones específicas de VS Code
+.vscode/
+
+# Ignorar otros archivos temporales
+*.log
+*.tmp
